@@ -1,4 +1,4 @@
-# ke64 0.0.0.4
+# ke64 ver:0.0.0.4
 windows kernel tools
 
 免责声明:
