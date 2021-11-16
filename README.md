@@ -1,4 +1,4 @@
-# ke64 0.0.0.8
+# ke64 0.1.0.0
 
 免责声明:
 这只是一个免费的辅助软件, 如果您使用本软件, 给您直接或者间接造成损失、损害, 本人概不负责. 从您使用本软件的一刻起, 将视为您已经接受了本免责声明.
@@ -16,7 +16,7 @@ ke64是一个免费但功能强大的内核研究工具。它支持从Windows 7(
 签名：
 我没有数字证书，使用泄漏的数字证书来签署ke64的驱动程序。使用泄漏数字证书防病毒软件都认为文件是恶意软件,请大家放心使用
 
-1. 进程,线程,模块,窗口,内存,定时器,热键,消息钩子,事件钩子,inline hook检测,(程序入口反汇编和汇编(双击汇编))
+1. 进程,线程,模块,窗口,内存,定时器,热键,消息钩子,事件钩子,inline,iat,eat,hook检测,(程序入口反汇编和汇编(双击汇编))
 2. 驱动模块
 3. FilterDriver(File,Disk,RAW,Volume,Keyboard,Mouse,I8042prt，Tdx,NDIS,PnpManager)
 4. CreateProcess,LoadImage,CreateThread,CmpCallback,Shutdown
