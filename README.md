@@ -20,14 +20,14 @@ ke64是一个免费但功能强大的内核研究工具。它支持从Windows 7(
 2. 用户钩子(消息钩子,事件钩子，inline,iat,eat,hook检测,(程序入口反汇编和汇编(双击汇编)))
 3. 驱动模块(卸载等操作)
 4. FilterDriver(File,Disk,RAW,Volume,Keyboard,Mouse,I8042prt，Tdx,NDIS,PnpManager)
-5. CreateProcess,LoadImage,CreateThread,CmpCallback,Shutdown
-6. Callbak,ObjectType,ObjectTypeHook,DPC,WFPCallout,minifilter,WorkerThread(堆栈回溯)
+5. CreateProcess,LoadImage,CreateThread,CmpCallback,Shutdown(移除等操作)
+6. Callbak,ObjectType,ObjectTypeHook,DPC,WFPCallout,minifilter,WorkerThread(堆栈回溯)(移除等操作)
 7. IRP(Keyboard,Mouse,I8042prt,ndis,nsiproxy,tcpip,partmgr,disk,ntfs,scsi,npfs,fltmgr)
 8. GDI,IDT
 9. 端口查看
-10. 启动项
+10. 启动项(删除等操作)
 11. 服务
-12. 文件管理
+12. 文件管理(删除等操作)
 13. 应用层和驱动层(支持反汇编和汇编内存)
 14. 功能(...)
 
