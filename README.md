@@ -15,21 +15,21 @@ ke64 is a free but powerful kernel research tool. It supports from Windows 7 (76
 Since I don't have a digital certificate, I use a leaked digital certificate to sign the ke64 driver. Antivirus software that uses leaked digital certificates thinks that the file is malicious software, please rest assured to use
 
 
-# 功能列表
-1. 进程,线程,模块,窗口,内存,定时器,热键,(等显示 隐藏，欺骗，杀进程,杀线程，卸载，移除)
-2. 用户钩子(消息钩子,事件钩子，inline,iat,eat,hook检测,(程序入口反汇编和汇编(双击汇编)))
-3. 驱动模块(卸载等操作)
-4. FilterDriver(File,Disk,RAW,Volume,Keyboard,Mouse,I8042prt，Tdx,NDIS,PnpManager)(移除等操作)
-5. CreateProcess,LoadImage,CreateThread,CmpCallback,Shutdown(移除等操作)
-6. Callbak,ObjectType,ObjectTypeHook,DPC,WFPCallout,minifilter,WorkerThread(堆栈回溯)(移除等操作)
+# function list
+1. Process, thread, module, window, memory, timer, hot key, (show, hide, cheat, kill process, kill thread, uninstall, remove)
+2. User hooks (message hooks, event hooks, inline, iat, eat, hook detection, (program entry disassembly and assembly (double-click assembly)))
+3. Drive module (unloading and other operations)
+4. FilterDriver(File,Disk,RAW,Volume,Keyboard,Mouse,I8042prt，Tdx,NDIS,PnpManager)(Remove and other operations)
+5. CreateProcess,LoadImage,CreateThread,CmpCallback,Shutdown(Remove and other operations)
+6. Callbak,ObjectType,ObjectTypeHook,DPC,WFPCallout,minifilter,WorkerThread(Stack traceback)(Remove and other operations)
 7. IRP(Keyboard,Mouse,I8042prt,ndis,nsiproxy,tcpip,partmgr,disk,ntfs,scsi,npfs,fltmgr)
 8. GDI,IDT
-9. 端口查看
-10. 启动项(删除等操作)
-11. 服务
-12. 文件管理(删除等操作)
-13. 应用层和驱动层(支持反汇编和汇编内存)
-14. 功能(...)
+9. Network
+10. Startup item (delete, etc.)
+11. Serve
+12. File management (delete and other operations)
+13. Application layer and driver layer (support disassembly and assembly memory)
+14. Features(...)
 
 # Screenshots
 仅在该页面上放置了一张图片。
