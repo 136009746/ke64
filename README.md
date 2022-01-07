@@ -1,6 +1,6 @@
 # ke64 0.1.0.6
 
-![中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
+[中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
 
 qq群：822257392
 
