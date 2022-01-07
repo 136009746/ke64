@@ -32,17 +32,17 @@ Since I don't have a digital certificate, I use a leaked digital certificate to 
 14. Features(...)
 
 # Screenshots
-仅在该页面上放置了一张图片。
+Only one image is placed on this page。
 ![image](https://github.com/alinml/ke64/blob/main/screenshots/2.jpg)
 
-# 待加入功能
-1. 行为监控功能(行为大类:文件，注册表，进程线程，模块，网络)等行为监控。
-2. 注册表管理
-3. 驱动页面菜单导入导出功能。
-4. 文件页面菜单几个功能。
-5. 支持英语(English)语言。
-## 特别感谢
+# Features to be added
+1. Behavior monitoring function (file, registry, process thread, module, network) and other behavior monitoring。
+2. Registry management
+3. Drive page menu import and export function。
+4. Several functions of the file page menu。
+5. Support English(English)language。
+## Special thanks to
 *弃
 
-## 感谢名单
+## Thanks list
 bbjj999,Hmily
