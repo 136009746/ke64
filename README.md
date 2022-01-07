@@ -2,19 +2,17 @@
 
 [中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
 
-qq群：822257392
+qq group：822257392
 
-免责声明:
-这只是一个免费的辅助软件, 如果您使用本软件, 给您直接或者间接造成损失、损害, 本人概不负责. 从您使用本软件的一刻起, 将视为您已经接受了本免责声明.
+Disclaimer:
+This is just a free auxiliary software. If you use this software, you are not responsible for any loss or damage caused directly or indirectly. From the moment you use this software, you will be deemed to have accepted this disclaimer.
 
-本软件仅限于学习交流，如侵权请在24小时进行删除.
+This software is only for learning and communication, if infringement, please delete it within 24 hours.
 
-####  实现一个端口隐藏DEMO（文件port.sys）支持win7-win11,可过ark工具检查，本DEMO没有严禁测试可能不稳定仅测试，是否触发pg短时间我也没测出来，单独一个驱动使用工具加载即可使用工具查看端口,默认只隐藏pid为4的tcp&udp端口,请在虚拟机运行测试，此驱动没有添加卸载，我随时可能就删除测试程序，不要问报毒问题不解释，一切责任概不负责。
+ke64 is a free but powerful kernel research tool. It supports from Windows 7 (7601) to Windows 11 (22000), only supports x64-bit systems, please run in a virtual machine。
 
-ke64是一个免费但功能强大的内核研究工具。它支持从Windows 7(7601)到Windows 11(22000)，仅支持x64位系统，请在虚拟机运行。
-
-#### 签名
-由于我没有数字证书，使用泄漏的数字证书来签署ke64的驱动程序。使用泄漏数字证书防病毒软件都认为文件是恶意软件,请大家放心使用
+#### sign
+Since I don't have a digital certificate, I use a leaked digital certificate to sign the ke64 driver. Antivirus software that uses leaked digital certificates thinks that the file is malicious software, please rest assured to use
 
 
 # 功能列表
