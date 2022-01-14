@@ -46,3 +46,11 @@ Only one image is placed on this page。
 
 ## Thanks list
 bbjj999,Hmily
+
+
+## Update log 0.2.0.0
+1. Fixed message and event hooks failing in some cases
+2. Interface adjustment support DPI
+3. Fix file page stuck
+4. Support English language (automatic adaptation is not Chinese language system program to set English language)
+5. Fix multiple issues
