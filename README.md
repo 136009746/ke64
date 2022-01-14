@@ -1,4 +1,4 @@
-# ke64 0.1.0.6
+# ke64 0.2.0.0
 
 [简体中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
 
