@@ -40,7 +40,7 @@ Only one image is placed on this page。
 2. Registry management
 3. Drive page menu import and export function。
 4. Several functions of the file page menu。
-5. Support(English)language。
+5. ~~Support(English)language。~~
 ## Special thanks to
 *弃
 
