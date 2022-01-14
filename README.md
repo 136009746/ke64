@@ -33,7 +33,7 @@ Since I don't have a digital certificate, I use a leaked digital certificate to 
 
 # Screenshots
 Only one image is placed on this page。
-![image](https://github.com/alinml/ke64/blob/main/screenshots/2.jpg)
+![image](https://github.com/alinml/ke64/blob/main/screenshots/process(hook)_en.jpg)
 
 # Features to be added
 1. Behavior monitoring function (file, registry, process thread, module, network) and other behavior monitoring。
