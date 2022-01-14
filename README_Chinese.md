@@ -33,7 +33,7 @@ ke64是一个免费但功能强大的内核研究工具。它支持从Windows 7(
 
 # Screenshots
 仅在该页面上放置了一张图片。
-![image](https://github.com/alinml/ke64/blob/main/screenshots/2.jpg)
+![image](https://github.com/alinml/ke64/blob/main/screenshots/process(hook).jpg)
 
 # 待加入功能
 1. 行为监控功能(行为大类:文件，注册表，进程线程，模块，网络)等行为监控。
