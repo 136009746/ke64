@@ -13,8 +13,8 @@ ke64是一个免费但功能强大的内核研究工具。它支持从Windows 7(
 
 ### 问题反馈&帮助
 * qq群：822257392
-* 163:alinml@163.com
-* google:ke64ml@gmail.com
+* 163：alinml@163.com
+* google：ke64ml@gmail.com
 * gitee：[gitee](https://gitee.com/alinml/ke64)
 
 #### 签名
