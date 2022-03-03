@@ -2,7 +2,12 @@
 
 [简体中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
 
-qq group：822257392
+
+### Question feedback & help
+* qq group：822257392
+* 163：alinml@163.com
+* google：ke64ml@gmail.com
+* gitee：[gitee](https://gitee.com/alinml/ke64)
 
 Disclaimer:
 This is just a free auxiliary software. If you use this software, you are not responsible for any loss or damage caused directly or indirectly. From the moment you use this software, you will be deemed to have accepted this disclaimer.
