@@ -41,20 +41,19 @@ Since I don't have a digital certificate, I use a leaked digital certificate to 
 Only one image is placed on this page。
 ![image](https://github.com/alinml/ke64/blob/main/screenshots/process(hook)_en.jpg)
 
-# Features to be added
+### Features to be added
 1. Behavior monitoring function (file, registry, process thread, module, network) and other behavior monitoring。
 2. Registry management
 3. Drive page menu import and export function。
 4. Several functions of the file page menu。
 5. ~~Support(English)language。~~
-## Special thanks to
+### Special thanks to
 *弃
 
-## Thanks list
+### Thanks list
 bbjj999,Hmily
 
-
-## Update log 0.2.0.0
+### Update log 0.2.0.0
 1. Fixed message and event hooks failing in some cases
 2. Interface adjustment support DPI
 3. Fix file page stuck
