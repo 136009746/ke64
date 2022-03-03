@@ -2,19 +2,20 @@
 
 [简体中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
 
+Disclaimer:
+This is just a free auxiliary software. If you use this software, you are not responsible for any loss or damage caused directly or indirectly. From the moment you use this software, you will be deemed to have accepted this disclaimer.
+
+This software is only for learning and communication, if infringement, please delete it within 24 hours.
+
+### Introduction
+
+ke64 is a free but powerful kernel research tool. It supports from Windows 7 (7601) to Windows 11 (22000), only supports x64-bit systems, please run in a virtual machine。
 
 ### Question feedback & help
 * qq group：822257392
 * 163：alinml@163.com
 * google：ke64ml@gmail.com
 * gitee：[gitee](https://gitee.com/alinml/ke64)
-
-Disclaimer:
-This is just a free auxiliary software. If you use this software, you are not responsible for any loss or damage caused directly or indirectly. From the moment you use this software, you will be deemed to have accepted this disclaimer.
-
-This software is only for learning and communication, if infringement, please delete it within 24 hours.
-
-ke64 is a free but powerful kernel research tool. It supports from Windows 7 (7601) to Windows 11 (22000), only supports x64-bit systems, please run in a virtual machine。
 
 #### sign
 Since I don't have a digital certificate, I use a leaked digital certificate to sign the ke64 driver. Antivirus software that uses leaked digital certificates thinks that the file is malicious software, please rest assured to use
