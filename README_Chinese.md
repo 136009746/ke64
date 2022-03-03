@@ -12,10 +12,10 @@
 ke64是一个免费但功能强大的内核研究工具。它支持从Windows 7(7601)到Windows 11(22000)，仅支持x64位系统，请在虚拟机运行。
 
 ### 问题反馈&帮助
-qq群：822257392
-163:alinml@163.com
-google:ke64ml@gmail.com
-gitee：[gitee](https://gitee.com/alinml/ke64)
+* qq群：822257392
+* 163:alinml@163.com
+* google:ke64ml@gmail.com
+* gitee：[gitee](https://gitee.com/alinml/ke64)
 
 #### 签名
 由于我没有数字证书，使用泄漏的数字证书来签署ke64的驱动程序。使用泄漏数字证书防病毒软件都认为文件是恶意软件,请大家放心使用
