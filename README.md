@@ -21,7 +21,7 @@ ke64 is a free but powerful kernel research tool. It supports from Windows 7 (76
 Since I don't have a digital certificate, I use a leaked digital certificate to sign the ke64 driver. Antivirus software that uses leaked digital certificates thinks that the file is malicious software, please rest assured to use
 
 
-# function list
+# Characteristics
 1. Process, thread, module, window, memory, timer, hot key, (show, hide, cheat, kill process, kill thread, uninstall, remove)
 2. User hooks (message hooks, event hooks, inline, iat, eat, hook detection, (program entry disassembly and assembly (double-click assembly)))
 3. Drive module (unloading and other operations)
