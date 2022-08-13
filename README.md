@@ -23,7 +23,7 @@ Since I don't have a digital certificate, I use a leaked digital certificate to 
 
 ### Characteristics
 1. Process, thread, module, window, memory, timer, hot key, (show, hide, cheat, kill process, kill thread, uninstall, remove)
-2. User hooks (message hooks, event hooks, inline, iat, eat, hook detection, (program entry disassembly and assembly (double-click assembly)))
+2. User hooks (message hooks, event hooks, inline, iat, eat, hook detection)
 3. Drive module (unloading and other operations)
 4. FilterDriver(File,Disk,RAW,Volume,Keyboard,Mouse,I8042prt，Tdx,NDIS,PnpManager)(Remove and other operations)
 5. CreateProcess,LoadImage,CreateThread,CmpCallback,Shutdown(Remove and other operations)
