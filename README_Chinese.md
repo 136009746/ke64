@@ -25,7 +25,7 @@ ke64是一个免费但功能强大的内核研究工具。它支持从Windows 7(
 
 ### 特点
 1. 进程,线程,模块,窗口,内存,定时器,热键,(等显示 隐藏，欺骗，杀进程,杀线程，卸载，移除)
-2. 用户钩子(消息钩子,事件钩子，inline,iat,eat,hook检测,(程序入口反汇编和汇编(双击汇编)))
+2. 用户钩子(消息钩子,事件钩子，inline,iat,eat,hook检测)
 3. 驱动模块(卸载等操作)
 4. FilterDriver(File,Disk,RAW,Volume,Keyboard,Mouse,I8042prt，Tdx,NDIS,PnpManager)(移除等操作)
 5. CreateProcess,LoadImage,CreateThread,CmpCallback,Shutdown(移除等操作)
