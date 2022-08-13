@@ -1,4 +1,4 @@
-# ke64 0.2.0.0
+# ke64 0.2.1.0
 
 [简体中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
 
@@ -53,7 +53,14 @@ Only one image is placed on this page。
 ### Thanks list
 bbjj999,Hmily
 
-### Update log 0.2.0.0
+### Update log 
+0.2.1.0
+1.Fix the scanning process hook segment is too large to cause too slow (like a stuck phenomenon)
+2.Remove process menu entry disassembly function
+3.Fix multiple bugs and blue screen of some functions
+4.enhance stability
+
+0.2.0.0
 1. Fixed message and event hooks failing in some cases
 2. Interface adjustment support DPI
 3. Fix file page stuck
