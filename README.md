@@ -55,10 +55,10 @@ bbjj999,Hmily
 
 ### Update log 
 0.2.1.0
-1.Fix the scanning process hook segment is too large to cause too slow (like a stuck phenomenon)
-2.Remove process menu entry disassembly function
-3.Fix multiple bugs and blue screen of some functions
-4.enhance stability
+1. Fix the scanning process hook segment is too large to cause too slow (like a stuck phenomenon)
+2. Remove process menu entry disassembly function
+3. Fix multiple bugs and blue screen of some functions
+4. enhance stability
 
 0.2.0.0
 1. Fixed message and event hooks failing in some cases
