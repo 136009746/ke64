@@ -35,9 +35,10 @@ Since I don't have a digital certificate, I use a leaked digital certificate to 
 9. Network
 10. Startup item (delete, etc.)
 11. Serve
-12. File management (delete and other operations)
-13. Application layer and driver layer (support disassembly and assembly memory)
-14. Features(...)
+12. Regedit management
+13. File management
+14. Application layer and driver layer (support disassembly and assembly memory)
+15. Features(...)
 
 ### Screenshots
 Only one image is placed on this page。
