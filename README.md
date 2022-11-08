@@ -1,9 +1,11 @@
-# ke64 0.2.1.0
+# ke64 1.0.3.0
 
 [简体中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
 
 ### Disclaimer:
 This is just a free auxiliary software. If you use this software, you are not responsible for any loss or damage caused directly or indirectly. From the moment you use this software, you will be deemed to have accepted this disclaimer.
+
+This software is not allowed to be used for commercial purposes without the written authorization of the author; It is prohibited to use this software to break the computer system or software environment, etc.
 
 This software is only for learning and communication, if infringement, please delete it within 24 hours.
 
@@ -54,6 +56,16 @@ Only one image is placed on this page。
 bbjj999,Hmily
 
 ### Update log 
+1.0.3.0
+1. New support for (win11 22H2) 22621 and (win2022) 20348
+2. Add registry management (delete, rename, export, create (key, binary, DWORD, QWORD, multi string, extensible string), modify (DWORD, QWORD, multi string))
+3. Improve file functions (fast file positioning, file locking, renaming, copying files, removing read-only hidden attributes, setting read-only hidden attributes, attributes),
+4. Improve service functions (start, stop, temporary, restore, restart, delete, start type, locate registry, attribute)
+5. Add some menus and go to the ke64 registry and file
+6. Repairing multiple bugs will not be described here
+7. Enhanced startup item deletion
+8. Strengthen stability
+
 0.2.1.0
 1. Fix the scanning process hook segment is too large to cause too slow (like a stuck phenomenon)
 2. Remove process menu entry disassembly function
