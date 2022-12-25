@@ -1,5 +1,5 @@
 # ke64_mon 2.0.0.0 进qq群测试：822257392
-![image](https://github.com/alinml/ke64/blob/main/screenshots/process(hook).jpg)
+![image](https://github.com/alinml/ke64/blob/main/screenshots/mon.png)
 
 # ke64 1.0.3.0
 
