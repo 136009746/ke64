@@ -24,21 +24,29 @@ Since I don't have a digital certificate, I use a leaked digital certificate to 
 
 
 ### Characteristics
-1. Process, thread, module, window, memory, timer, hot key, (show, hide, cheat, kill process, kill thread, uninstall, remove)
-2. User hooks (message hooks, event hooks, inline, iat, eat, hook detection)
+1. Process, thread, module, window, memory, timer, hotkey, (etc. show hide, cheat, kill process, kill thread, unload, remove)
+2. User hook (message hook, event hook, inline, iat, eat, hook detection)
 3. Drive module (unloading and other operations)
-4. FilterDriver(File,Disk,RAW,Volume,Keyboard,Mouse,I8042prt，Tdx,NDIS,PnpManager)(Remove and other operations)
-5. CreateProcess,LoadImage,CreateThread,CmpCallback,Shutdown(Remove and other operations)
-6. Callbak,ObjectType,ObjectTypeHook,DPC,WFPCallout,minifilter,WorkerThread(Stack traceback)(Remove and other operations)
+4. FilterDriver (File, Disk, RAW, Volume, Keyboard, Mouse, I8042prt, Tdx, NDIS, PnpManager) (removal and other operations)
+5. CreateProcess, LoadImage, CreateThread, CmpCallback, Shutdown
+6. Callback, ObjectType, ObjectTypeHook, DPC, WFP Callout, minifilter, WorkerThread (stack backtracking) (remove and other operations)
 7. IRP(Keyboard,Mouse,I8042prt,ndis,nsiproxy,tcpip,partmgr,disk,ntfs,scsi,npfs,fltmgr)
 8. GDI,IDT
-9. Network
-10. Startup item (delete, etc.)
-11. Serve
-12. Regedit management
-13. File management
-14. Application layer and driver layer (support disassembly and assembly memory)
-15. Features(...)
+9. Port View
+10. Startup item (delete and other operations)
+11. Service (start, stop, temporary, restore, restart, delete, start type, locate registry, attribute)
+12. Registry management (delete, rename, export, create (key, binary, DWORD, QWORD, multiple strings, extensible strings), modify (DWORD, QWORD, multiple strings))
+13. File management (delete, quickly locate files, lock, rename, copy files, remove read-only hidden attributes, set read-only hidden attributes, attributes)
+14. Add behavior monitoring (behavior includes:
+File (create, read, write, delete, rename, set attributes, set permissions),
+Registry (open, create, delete key, delete value, read value, rename key, set security, query value, set value),
+Processes (create, start, destroy),
+Thread (create, destroy),
+Module (loaded),
+Network (connect, listen, receive, send)
+）Etc.
+15. Application layer and driver layer (support disassembly and assembly memory)
+16. Function (...)
 
 ### Screenshots
 Only one image is placed on this page。
