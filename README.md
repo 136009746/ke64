@@ -1,7 +1,4 @@
-# ke64_mon 2.0.0.0 进qq群测试：822257392
-![image](https://github.com/alinml/ke64/blob/main/screenshots/mon.png)
-
-# ke64 1.0.3.0
+# ke64 2.0.0.0
 
 [简体中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
 
@@ -45,7 +42,7 @@ Since I don't have a digital certificate, I use a leaked digital certificate to 
 
 ### Screenshots
 Only one image is placed on this page。
-![image](https://github.com/alinml/ke64/blob/main/screenshots/process(hook)_en.jpg)
+![image](https://github.com/alinml/ke64/blob/main/screenshots/mon.png)
 
 ### Features to be added
 1. Behavior monitoring function (file, registry, process thread, module, network) and other behavior monitoring。
@@ -60,6 +57,34 @@ Only one image is placed on this page。
 bbjj999,Hmily
 
 ### Update log 
+
+2.0.0.0
+1. Add behavior monitoring (behavior includes:
+File (create, read, write, delete, rename, set attributes, set permissions),
+Registry (open, create, delete key, delete value, read value, rename key, set security, query value, set value),
+Processes (create, start, destroy),
+Thread (create, destroy),
+Module (loaded),
+Network (connect, listen, receive, send)
+）Etc.
+2. Add End Delete Process
+3. Enhanced file deletion (blue screen for slow response)
+4. Add deletion of files occupied by hidden processes
+5. Add process protection
+6. New process hidden (later versions are enabled)
+7. Add process camouflage (later versions are enabled)
+8. Add PlugPlay callback enumeration
+9. Add memory scanning Ldr driver module
+10. Enter the new file location input field
+11. Violent deletion of new files (handle occupation, irp occupation, hard links, etc. can be ignored...)
+12. Rewrite the file handle view, including hiding the lower layer (solving the slow response blue screen)
+13. Right click the modified file tree list and select
+14. Deleting files in the repair list will not clean up the display
+15. Repair file transferred to
+16. Modify the list color a little darker
+17. Fix known bugs
+18. Optimize some functions
+
 1.0.3.0
 1. New support for (win11 22H2) 22621 and (win2022) 20348
 2. Add registry management (delete, rename, export, create (key, binary, DWORD, QWORD, multi string, extensible string), modify (DWORD, QWORD, multi string))
