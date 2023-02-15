@@ -52,17 +52,6 @@ Network (connect, listen, receive, send)
 Only one image is placed on this page。
 ![image](https://github.com/alinml/ke64/blob/main/screenshots/mon.png)
 
-### Features to be added
-1. ~~Behavior monitoring function (file, registry, process thread, module, network) and other behavior monitoring。~~
-2. ~~Registry management~~
-3. ~~Drive page menu import and export function。~~
-4. ~~Several functions of the file page menu。~~
-5. ~~Support(English)language。~~
-### Special thanks to
-*弃
-
-### Thanks list
-bbjj999,Hmily
 
 ### Update log 
 2.0.1.0
