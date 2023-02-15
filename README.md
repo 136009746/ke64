@@ -1,4 +1,4 @@
-# ke64 2.0.0.0
+# ke64 2.0.1.0
 
 [简体中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
 
@@ -65,6 +65,10 @@ Only one image is placed on this page。
 bbjj999,Hmily
 
 ### Update log 
+2.0.1.0
+1. Fix that the handle table does not display the path of the process thread type, and the menu only displays the process thread type for easy viewing
+2. It is possible to repair and start the blue screen
+3. Improve the logic of optimized use and make it more user-friendly
 
 2.0.0.0
 1. Add behavior monitoring (behavior includes:
