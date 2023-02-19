@@ -1,6 +1,6 @@
 # ke64 2.0.1.0
 
-## 下载地址:
+## 其他下载地址:
 https://alinml.lanzouo.com/ikCmb0o0y03c
 密码:9796
 
