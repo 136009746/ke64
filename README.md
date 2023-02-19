@@ -1,5 +1,9 @@
 # ke64 2.0.1.0
 
+## Other download addresses:
+https://alinml.lanzouo.com/ikCmb0o0y03c
+password:9796
+
 [简体中文](https://github.com/alinml/ke64/blob/main/README_Chinese.md)
 
 ### Disclaimer:
